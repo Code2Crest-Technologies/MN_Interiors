@@ -1,0 +1,14 @@
+{
+  "source": { "width": 1280, "height": 720 },
+  "profiles": {
+    "phone": { "cropWidth": 405, "width": 432, "height": 768 },
+    "tablet": { "cropWidth": 540, "width": 576, "height": 768 }
+  },
+  "scenes": {
+    "arrival":     { "stem": "exterior", "phone": 402, "tablet": 334 },
+    "living-room": { "stem": "living",   "phone": 594, "tablet": 526 },
+    "kitchen":     { "stem": "kitchen",  "phone": 552, "tablet": 456 },
+    "bedroom":     { "stem": "bedroom",  "phone": 240, "tablet": 172 },
+    "study":       { "stem": "study",    "phone": 477, "tablet": 409 }
+  }
+}
